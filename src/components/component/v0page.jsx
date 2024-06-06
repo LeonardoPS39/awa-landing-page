@@ -50,7 +50,7 @@ export function V0page() {
           Uma maneira mais lúdica e interativa de aprender.🎮📕🧩
         </p>
         <div className="mt-10 flex items-center justify-center gap-x-6">
-          <Link href="https://github.com/Fabio-Mnte/Amazon-Hacking-AWA/releases/tag/beta_1.2" target="_blank">
+          <Link href="https://github.com/Fabio-Mnte/Amazon-Hacking-AWA/releases/tag/beta_2.0" target="_blank">
             <Button>Jogue Agora</Button>
           </Link>
           <Link
